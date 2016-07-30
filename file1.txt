@@ -1,2 +1,6 @@
 Adding some code Here
+<<<<<<< HEAD
 Adding yet more code
+=======
+Fix1
+>>>>>>> 587beed... Added fix1
